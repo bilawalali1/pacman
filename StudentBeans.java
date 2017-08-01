@@ -9,7 +9,7 @@ import javax.faces.bean.ManagedBean;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
+;;;;;
 @ManagedBean(name = "studentbean")
 public class StudentBeans {
     String name,password,gender;
