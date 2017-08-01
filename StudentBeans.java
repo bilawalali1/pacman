@@ -12,7 +12,7 @@ import java.util.List;
 ;;;;;
 @ManagedBean(name = "studentbean")
 public class StudentBeans {
-    String name,password,gender;
+    String name,password,gender;sdasd
 
     public StudentBeans()
     {
